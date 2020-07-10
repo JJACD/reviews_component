@@ -1,5 +1,5 @@
 # reviews_component
-
+based off lululemons product page
 # Usage
   - Fork and clone repo(s)
 # Install dependencies

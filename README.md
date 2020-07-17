@@ -11,4 +11,4 @@ Based off lululemons product page
 To view, open browser and visit localhost: 3001
 
 Deloped on AWS
-http://ec2-3-128-202-93.us-east-2.compute.amazonaws.com:3001/
+http://ec2-18-224-66-163.us-east-2.compute.amazonaws.com:3001/

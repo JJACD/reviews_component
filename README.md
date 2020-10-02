@@ -1,5 +1,7 @@
 # reviews_component
-Based off lululemons product page
+ - Based off lululemons product page
+ - Built with MERN stack
+
 # Usage
   - Fork and clone repo(s)
 # Install dependencies

@@ -1,5 +1,5 @@
 # reviews_component
- - Based off lululemons product page
+ - Reviews micro-service that can be utilized for any website requiring a reviews section
  - Built with MERN stack
 
 # Usage
